@@ -45,3 +45,8 @@ __pycache__/
 .ruff_cache/
 .venv/
 venv/
+
+# Go
+golang/bin/
+golang/*.exe
+golang/.gocache/
