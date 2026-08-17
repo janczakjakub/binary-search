@@ -50,3 +50,7 @@ venv/
 golang/bin/
 golang/*.exe
 golang/.gocache/
+
+# C
+c/benchmark
+c/*.o

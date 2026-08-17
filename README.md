@@ -37,6 +37,7 @@ Skrypt benchmarku generuje posortowane tablice o rozmiarach od 100 do 1 000 000 
 | JavaScript | `javascript/` | [javascript/README.md](javascript/README.md) |
 | Python     | `python/`     | [python/README.md](python/README.md)       |
 | Go         | `golang/`     | [golang/README.md](golang/README.md)       |
+| C          | `c/`          | [c/README.md](c/README.md)                 |
 
 ---
 
@@ -75,3 +76,4 @@ The benchmark script generates sorted arrays ranging from 100 to 1,000,000 eleme
 | JavaScript | `javascript/` | [javascript/README.md](javascript/README.md) |
 | Python     | `python/`     | [python/README.md](python/README.md)       |
 | Go         | `golang/`     | [golang/README.md](golang/README.md)       |
+| C          | `c/`          | [c/README.md](c/README.md)                 |
